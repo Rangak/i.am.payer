@@ -8,4 +8,4 @@ The blockchain is already an undisputable and available record of a payment. Wha
     (1) The payment claimed in the token was indeed recorded on the blockchain
     (2) The presentation of the token is occuring for the first time
 
-This mechanism obviates the need for order processing servers, and allows payers to maintain anonymity if they take care to use sender addresses that cannot be associated with them. Uses include anything at all paid for online, including downloads (software, music, videos etc) and event tickets (concerts, movies etc).
+This mechanism obviates the need for payment processing servers, and allows payers to maintain anonymity if they take care to use sender addresses that cannot be associated with them. Uses include anything at all paid for online, including downloads (software, music, videos etc) and event tickets (concerts, movies etc).
